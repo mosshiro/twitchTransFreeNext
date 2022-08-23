@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'vmosschan'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'moss1215'
+Trans_OAUTH             = 'oauth:t2q56z1lgwcwb7bd0otplzegczx215'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
